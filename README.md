@@ -39,6 +39,6 @@ make
 ## Équipe
 - Ibrahima
 - Ndiaga
-- Mouamed
+- Mohamed
 - Mamoudou
 - Mack
