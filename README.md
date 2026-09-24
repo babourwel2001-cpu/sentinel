@@ -1,7 +1,7 @@
-# Sentinel — Tower Defense 2D
+# Sentinel - Tower Defense 2D
 
 Jeu de tower defense 2D en C++ avec SFML.  
-Projet réalisé dans le cadre du cours de POO — ESIR, Université Rennes 1.
+Projet réalisé dans le cadre du cours de POO - ESIR, Université Rennes 1.
 
 ## Concepts C++ utilisés
 - Héritage et polymorphisme (`Entity` → `Enemy`, `Tower`, `Projectile`)
